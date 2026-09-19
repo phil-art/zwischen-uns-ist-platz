@@ -39,7 +39,7 @@ Damit wird keine Aussage darüber getroffen, ob beziehungsweise in welchem Umfan
 
 ## Urheberrecht und Nutzung
 
-© 2026 [die im Impressum genannte Person](https://mein.online-impressum.de/pb-experimental-education/). Soweit nicht anders angegeben, sind alle Inhalte urheberrechtlich geschützt.
+© 2026 Philipp Brasseler. Soweit nicht anders angegeben, sind alle Inhalte urheberrechtlich geschützt.
 
 Soweit nicht ausdrücklich anders angegeben, wird durch die öffentliche Bereitstellung dieses Repositorys keine Lizenz zur Vervielfältigung, Bearbeitung, Weiterverbreitung oder kommerziellen Nutzung der enthaltenen Texte, Übungen, Illustrationen, grafischen Darstellungen und sonstigen redaktionellen Inhalte eingeräumt.
 
